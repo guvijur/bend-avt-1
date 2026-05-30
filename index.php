@@ -1,5 +1,5 @@
 <?php
-// Тестовая страница сайта bend-avt-1.local
+// Тестовая страница bend-avt-1.local для первой лабы
 ?>
 <!DOCTYPE html>
 <html lang="ru">
@@ -47,5 +47,9 @@
         <p><strong>Путь к сайту:</strong> <code><?php echo __DIR__; ?></code></p>
         <p><strong>Серверное время:</strong> <?php echo date('d.m.Y H:i:s'); ?></p>
     </div>
+
+    <footer>
+	<span>Вносим какое-то изменение</span>
+    </footer>
 </body>
 </html>
